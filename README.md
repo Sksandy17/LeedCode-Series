@@ -28,3 +28,9 @@
 - My Approach: To check a given two integers are positive a and b, find the common factors of these two numbers, count the common factors and return count.
 - Time Complexity: O(min(a, b))
 - Space ComplexityL O(1)
+
+### Day-5:
+#### Transpose Matrix(867)
+- My Approach: Create a new matrix by swapping the rows and columns of the original matrix, then copy each element to its transposed position.
+- Time Complexity: O(m x n)
+- Space Complexity: O(m x n)
