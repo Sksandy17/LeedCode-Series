@@ -34,3 +34,9 @@
 - My Approach: Create a new matrix by swapping the rows and columns of the original matrix, then copy each element to its transposed position.
 - Time Complexity: O(m x n)
 - Space Complexity: O(m x n)
+
+### Day-6:
+#### Find Missing Elements(3731)
+- My Approach: Find the minimum and maximum values, then check each number in that range against the array. Add the numbers that are missing to the result list.
+- Time Complexity: O(n × (max - min + 1))
+- Space Complexity: O(1)
