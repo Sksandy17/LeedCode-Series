@@ -40,3 +40,9 @@
 - My Approach: Find the minimum and maximum values, then check each number in that range against the array. Add the numbers that are missing to the result list.
 - Time Complexity: O(n × (max - min + 1))
 - Space Complexity: O(1)
+
+### Day-7:
+#### Add Digits(258)
+- My Approach: Repeatedly add all its digits until the result has only one digit, and return num.
+- Time Complexity: O(log n)
+- Space Complexity: O(1)
