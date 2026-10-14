@@ -52,3 +52,8 @@
 - My Approach: Store the frequency of each character in s, then decrease the frequency for each character in t and return the character whose frequency becomes negative.
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+#### Find the Duplicate Number(287)
+- My Approach: Count the frequency of each number and return the number whose frequency is greater than 1.
+- Time Complexity: O(n)
+- Space Complexity: O(n)
