@@ -46,3 +46,9 @@
 - My Approach: Repeatedly add all its digits until the result has only one digit, and return num.
 - Time Complexity: O(log n)
 - Space Complexity: O(1)
+
+### Day-8:
+#### Find the Difference(389)
+- My Approach: Store the frequency of each character in s, then decrease the frequency for each character in t and return the character whose frequency becomes negative.
+- Time Complexity: O(n)
+- Space Complexity: O(1)
