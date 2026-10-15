@@ -57,3 +57,9 @@
 - My Approach: Count the frequency of each number and return the number whose frequency is greater than 1.
 - Time Complexity: O(n)
 - Space Complexity: O(n)
+
+### Day-9:
+#### Check Good Integer(3959)
+- My Approach: Given a positive integer n, calculate sum of digits of n in digitSum and sum of the squares of the digits of n in squareSum, to check the difference squareSum-digitSum>=50, return true if n is good integer, otherwise return false.
+- Time Complexity: O(log n)
+- Space Complexity: O(1)
