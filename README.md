@@ -63,3 +63,9 @@
 - My Approach: Given a positive integer n, calculate sum of digits of n in digitSum and sum of the squares of the digits of n in squareSum, to check the difference squareSum-digitSum>=50, return true if n is good integer, otherwise return false.
 - Time Complexity: O(log n)
 - Space Complexity: O(1)
+
+### Day-10:
+#### Find Lucky Integer in an Array(1394)
+- My Approach: Count the frequency of each number in the array and check whether its frequency equals its value. Return the largest number satisfying this condition; if none exists, return -1.
+- Time Complexity: O(n)
+- Space Complexity: O(1)
