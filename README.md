@@ -69,3 +69,9 @@
 - My Approach: Count the frequency of each number in the array and check whether its frequency equals its value. Return the largest number satisfying this condition; if none exists, return -1.
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+### Day-11:
+#### Pow(x, n)(50)
+- My Approach: Handle negative powers by taking the reciprocal, then use binary exponentiation by multiplying the result for odd powers, squaring x, and dividing the power by 2 in each iteration.
+- Time Complexity: O(log|n|)
+- Space Complexity: O(1)
