@@ -75,3 +75,8 @@
 - My Approach: Handle negative powers by taking the reciprocal, then use binary exponentiation by multiplying the result for odd powers, squaring x, and dividing the power by 2 in each iteration.
 - Time Complexity: O(log|n|)
 - Space Complexity: O(1)
+
+#### Climbing Stairs(70)
+- My Approach: Use a loop to add the previous two step counts and update the values until reaching step n.
+- Time Complexity: O(n)
+- Space Complexity: O(1)
